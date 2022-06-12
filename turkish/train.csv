@@ -1,13 +1,13 @@
 label,target
-Ürüne gerçekten bayıldım.,2
-Muhteşem bir teslimat.,2
-Ürün hızlıca geldi.,2
-Ürünleri çok sevdim.,2
-Berbat bir ürün bu.,0
-Ürün teslimatı iğrençti.,0
-Ürün çok geç geldi.,0
-Ürünler kırık geldi.,0
-Ürünler beklediğim gibi sayılır.,1
-Ürün iyi sayılır.,1
-Ürün düzgün.,1
-Ürün normal.,1
+ÃœrÃ¼ne gerÃ§ekten bayÄ±ldÄ±m.,positive
+MuhteÅŸem bir teslimat.,positive
+ÃœrÃ¼n hÄ±zlÄ±ca geldi.,positive
+ÃœrÃ¼nleri Ã§ok sevdim.,positive
+Berbat bir Ã¼rÃ¼n bu.,negative
+ÃœrÃ¼n teslimatÄ± iÄŸrenÃ§ti.,negative
+ÃœrÃ¼n Ã§ok geÃ§ geldi.,negative
+ÃœrÃ¼nler kÄ±rÄ±k geldi.,negative
+ÃœrÃ¼nler beklediÄŸim gibi sayÄ±lÄ±r.,neutral
+ÃœrÃ¼n iyi sayÄ±lÄ±r.,neutral
+ÃœrÃ¼n dÃ¼zgÃ¼n.,neutral
+ÃœrÃ¼n normal.,neutral
